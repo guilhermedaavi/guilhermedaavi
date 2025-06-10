@@ -4,7 +4,7 @@
 
 Passionate about programming, innovation, and technology.
 I started programming in 2025, since then I follow improving through courses, private projects and work.
-I'm currently working as a full-stack developer
+I'm currently working as a front-end developer
 
 
 ## Techs and tools
